@@ -6,7 +6,7 @@ This web application allows users to input transfer functions and visualize the 
 1. The website is deployed here: [Nyquist Plot](https://yk9221.github.io/Nyquist-Plot/)
 2. Input the numerator and denominator of the transfer function
 3. Press Enter to draw
-4. This will output the nyquist plot
+4. This will output the Nyquist plot
 
 ## Example
 ![Nyquist Plot](Nyquist_plot.png)
